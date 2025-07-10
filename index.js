@@ -62,7 +62,7 @@ global.totalreq = 0;
 // Settings
 const settings = {
   creatorName: "AlwaysHanzz",
-  whatsappLink: "https://wa.me/6281936513894,",
+  whatsappLink: "https://wa.me/6281936513894",
   apiTitle: "AlwaysHanzz API's",
   githubLink: "https://whatsapp.com/channel/0029Vb5ahlD2v1ImfMMaMr00",
   instagramLink: "https://whatsapp.com/channel/0029Vb5ahlD2v1ImfMMaMr00"
